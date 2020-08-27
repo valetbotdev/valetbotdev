@@ -1,4 +1,4 @@
-Automated builder for [`@TheValetBot/framework`]
+Automated builder for [`@TheValetBot/framework`].
 
 <!--
 **valetbotdev/valetbotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
